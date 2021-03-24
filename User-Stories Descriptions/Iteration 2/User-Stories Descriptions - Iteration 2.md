@@ -7,14 +7,14 @@ Die User-Stories für diese Iteration sind nun auf [Jira](https://smartenergylin
 - **PSE-14** 
   In der Mitgliederansicht des SEL-Portals wird ein Menüpunkt Kostenübersicht angezeigt, welcher es erlaubt den Mitgliedern einer ZEV (Zusammenschluss zum Eigenverbrauch) ihre eigenen Abrechnungen zu sehen:
 
-  <div style="width:100%; display:flex;justify-content:center;"><img src="./PSE-14-UI.png" style="zoom:25%;" /></div>
+  <p align="center"><img src="./PSE-14-UI.png" width="400px"/></p>
 
   Es sollte nun einem Kunden möglich sein, diese Funktionalität zu unterbinden für alle Mitglieder, d.h. der Menüpunkt soll nicht mehr erreichbar sein, sowie die Rechnungen auch nicht über Link erreichbar.
 
 - **PSE-15**
   SEL entwickelt Sensoren, von welchen einige auch Temperatur von Luft und Wasser messen. Diese Daten, welche diese Sensoren sammeln, sollen nun in einem Diagramm dargestellt werden, im gleichen Stil und mit gleicher Funktionalität, wie die anderen Diagramme auf dem Portal. Hier ein Mockup vom Endresultat:
 
-  <div style="width:100%; display:flex;justify-content:center;"><img src="./PSE-15-UI-Mockup.png" style="zoom:60%;" /></div>
+  <p align="center"><img src="./PSE-15-UI-Mockup.png"  width="400px"/></p>
 
   Es sollen für die verschiedenen Sensoren, die aktuelle Temeratur, sowie ein Graphen angezeigt werden, welcher die Daten eines einstellbaren Zeitbereiches darstellt.
 
